@@ -1,7 +1,7 @@
 const estudantes = [
-    { nomeCompleto: "João da Silva", notaA: 7, notaB: 8.5 },
-    { nomeCompleto: "Maria Oliveira", notaA: 5, notaB: 7.0 },
-    { nomeCompleto: "Pedro Santos", notaA: 9, notaB: 6.5 }
+    { nomeCompleto: "Carlos Eduardo Souza", notaA: 7, notaB: 8.5 },
+    { nomeCompleto: "Beatriz Mendes Lima", notaA: 5, notaB: 7.0 },
+    { nomeCompleto: "Rafael Alves Costa", notaA: 9, notaB: 6.5 }
 ];
 
 function processarEstudante(estudante) {
