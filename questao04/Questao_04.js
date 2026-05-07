@@ -20,11 +20,11 @@ class Estudante {
 }
 
 const listaEstudantes = [
-    new Estudante("João", "Silva", 7.0, 8.5),
-    new Estudante("Maria", "Oliveira", 5.0, 7.0),
-    new Estudante("Pedro", "Santos", 9.0, 6.5),
-    new Estudante("Ana", "Costa", 4.0, 5.5),
-    new Estudante("Lucas", "Ferreira", 8.0, 7.5)
+    new Estudante("Fernando", "Rodrigues", 7.0, 8.5),
+    new Estudante("Camila", "Nascimento", 5.0, 7.0),
+    new Estudante("Thiago", "Oliveira", 9.0, 6.5),
+    new Estudante("Juliana", "Ferreira", 4.0, 5.5),
+    new Estudante("Marcelo", "Gomes", 8.0, 7.5)
 ];
 
 function exibirEstudantes() {
